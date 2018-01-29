@@ -6,6 +6,8 @@ The proble to solve is join some cities, nodes, with the shorter path possible. 
 This is a Dijkstra's problem. Every step in the travel affect to the graph adding more restriction
 At the begining every node is accesible from the the others but we can visit just one time every city.
 
-We use [fisharebest/algorithm]: https://github.com/fisharebest/algorithm pakage to solve Dijkstra's algorithm
-Dijkstra's algorithm explanation [Dijkstra's algorithm]: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+We use [fisharebest/algorithm] pakage to solve Dijkstra's algorithm
+Dijkstra's algorithm explanation [Dijkstra's algorithm]
 
+[fisharebest/algorithm]: https://github.com/fisharebest/algorithm
+[Dijkstra's algorithm]: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
